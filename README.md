@@ -1,0 +1,1 @@
+# gitops-adv-argocd-00aa
